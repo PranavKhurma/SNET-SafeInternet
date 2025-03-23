@@ -1,0 +1,12 @@
+[submodule "extension-backend"]
+	path = extension-backend
+	url = https://github.com/gdg4dev/snet-ext-backend
+[submodule "extension-frontend"]
+	path = extension-frontend
+	url = https://github.com/gdg4dev/snet-ext
+[submodule "snet-lookup-backend"]
+	path = snet-lookup-backend
+	url = https://github.com/gdg4dev/snet-lookup-be
+[submodule "snet-lookup-frontend"]
+	path = snet-lookup-frontend
+	url = https://github.com/gdg4dev/snet-lookup-fe
